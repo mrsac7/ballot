@@ -1,2 +1,2 @@
 # hackers-envelope
-A blogging site made using django.
+A polling site made using Django framework
